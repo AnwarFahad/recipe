@@ -1,1 +1,1 @@
-This is a HTML website showcasing my favorite recipes!
+This is a HTML website showcasing America's favorite recipes!
